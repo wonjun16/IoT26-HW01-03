@@ -1,0 +1,17 @@
+from gpiozero import Button, LED
+from signal import pause
+
+# Set LED to GPIO 14
+led = LED(14)
+
+# Set button to GPIO 4
+button = Button(4)
+
+# Turn the LED on when the button is pressed
+button.when_pressed = led.on
+
+# Turn the LED off when the button is released
+button.when_released = led.off
+
+# Keep the program running
+pause()
