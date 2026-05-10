@@ -1,0 +1,20 @@
+# Complete Project Details: https://RandomNerdTutorials.com/projects-raspberry-pi/
+
+from gpiozero import LED
+from time import sleep
+
+# Set LED to GPIO 14
+led = LED(14)
+
+# Blink the LED forever
+while True:
+    # Turn the LED on for one second
+    led.on()
+    sleep(1)
+
+    # Turn the LED off for one second
+    led.off()
+    sleep(1)
+
+# GPIO cleanup is not needed when using gpiozero
+# GPIO.cleanup()
