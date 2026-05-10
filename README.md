@@ -3,10 +3,9 @@
 
 ### Hw02
 <img width="577" height="592" alt="image" src="https://github.com/user-attachments/assets/25a6d3b3-3996-4ba7-91c3-8d1c811569e5" />
-<img width="2853" height="1684" alt="image" src="https://github.com/user-attachments/assets/33b6fe22-d3fb-4d97-8e90-c39cc85525d9" />
 <img width="2870" height="1731" alt="image" src="https://github.com/user-attachments/assets/f611f7f2-4d5e-4837-b5a2-5d56025b2655" />
 <img width="619" height="1123" alt="image" src="https://github.com/user-attachments/assets/72e2e55c-3e83-4c18-8130-2bfdc8f71cda" />
-
+<img width="1980" height="3520" alt="image" src="https://github.com/user-attachments/assets/9e63101a-28be-4fbf-aadd-795167e9141c" />
 
 ### Hw03
 <img width="2870" height="1731" alt="image" src="https://github.com/user-attachments/assets/62ea49e1-03df-43f0-8a3c-a7932dc87bea" />
